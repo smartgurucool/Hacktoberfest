@@ -1,2 +1,4 @@
 Name: Ria Arora
-E-mail id : arora.ria3007@gmail.com
+E-mail id: arora.ria3007@gmail.com
+City: New Delhi
+Country: India
