@@ -1,5 +1,8 @@
-# Hacktoberfest ([Live Website](https://cesta-society.github.io/Hacktoberfest//)) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Hacktoberfest 2020
+This will guide you through the complete process of "how to complete Hacktoberfest 2020 challenge".
 
+### YouTube Image Link:
+[![img](https://github.com/kmranrg/Hacktoberfest_2020/blob/master/hacktoberfest2020_bg.jpg)](https://www.youtube.com/watch?v=PwdK0vxfUnw)
 
 This is a beginner-friendly project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). This repository is dedicated to help beginners step up and join hands with the open source community. Feel free to start contributing. There are no wrong contributions. If you don't
