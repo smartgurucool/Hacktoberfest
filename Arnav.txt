@@ -4,3 +4,4 @@ City: Badlapur
 Country: India
 School: Panna  English  High  School
 State: Maharashtra
+DOB: 20th October 2020.
