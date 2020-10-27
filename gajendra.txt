@@ -1,3 +1,5 @@
 Name:Gajendra Singh
 Email id :gajendrasingh@80300@gmail.com
 Email id :gajendrasingh@80300@gmail.com
+country:india,city New Delhi
+profession:persuing Engineering.
