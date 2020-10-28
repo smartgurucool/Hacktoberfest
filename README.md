@@ -108,8 +108,8 @@ For more information on syncing forks [read this article from Github](https://he
   - Sadly no. But we think we should. This is 100% unofficial and we do it for fun.
 
 - Who are you and why are you doing this?
-  - We are two programmers from India [Shashank](https://github.com/ironbatshashank)
-  and [Ankit](https://github.com/ankiitsingh). We are doing this because we love Open
+  - We are two programmers from India [Kumar Anurag](https://github.com/kmranrg)
+  and [Pooja Kumari](https://github.com/pooja2273kumari). We are doing this because we love Open
   Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
 - Why are you not using digitalocean?
   - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
