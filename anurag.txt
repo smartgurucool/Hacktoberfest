@@ -4,3 +4,4 @@ City: New Delhi
 Country: India
 College: BITS Pilani
 Degree: Master of Technology in Data Science and Engineering
+Koo Profile Link: https://www.kooapp.com/profile/kmranrg
