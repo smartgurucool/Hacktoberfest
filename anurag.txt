@@ -3,3 +3,4 @@ Instagram ID: kmranrg
 City: New Delhi
 Country: India
 College: BITS Pilani
+Degree: Master of Technology in Data Science and Engineering
